@@ -15,7 +15,7 @@ __pycache__/
 #*.csv
 #*.pptx
 *.pyc
-
+lessons/
 # Distribution / packaging
 **/.ipynb_checkpoints/
 .Python
