@@ -13,7 +13,7 @@ __pycache__/
 
 # local files
 #*.csv
-*.pptx
+#*.pptx
 *.pyc
 
 # Distribution / packaging
